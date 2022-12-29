@@ -34,5 +34,8 @@
   },
   "testimonial.jpeg": {
     "mime": "image/jpeg"
+  },
+  "full-stop.png": {
+    "mime": "image/png"
   }
 }
