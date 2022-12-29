@@ -1,0 +1,38 @@
+{
+  "user5.jpg": {
+    "mime": "image/jpeg"
+  },
+  "png4.png": {
+    "mime": "image/png"
+  },
+  "png3.png": {
+    "mime": "image/png"
+  },
+  "png2.png": {
+    "mime": "image/png"
+  },
+  "png1.png": {
+    "mime": "image/png"
+  },
+  "2.png": {
+    "mime": "image/png"
+  },
+  "1.png": {
+    "mime": "image/png"
+  },
+  "3.png": {
+    "mime": "image/png"
+  },
+  "4.png": {
+    "mime": "image/png"
+  },
+  "user6.jpg": {
+    "mime": "image/jpeg"
+  },
+  "user4.jpg": {
+    "mime": "image/jpeg"
+  },
+  "testimonial.jpeg": {
+    "mime": "image/jpeg"
+  }
+}

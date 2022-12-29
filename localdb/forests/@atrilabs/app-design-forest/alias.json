@@ -1,0 +1,13 @@
+{
+  "Flex": 175,
+  "Div": 20,
+  "TextBox": 182,
+  "Link": 15,
+  "Button": 6,
+  "Image": 34,
+  "Slider": 2,
+  "Accordion": 1,
+  "Radio": 1,
+  "Checkbox": 1,
+  "Carousel": 6
+}

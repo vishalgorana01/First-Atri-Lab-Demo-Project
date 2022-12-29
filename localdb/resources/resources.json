@@ -1,0 +1,96 @@
+[
+  {
+    "str": "@import url(\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css\");",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Font Awesome 6 Brands",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Font Awesome 6 Free",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Font Awesome 6 Free",
+          "fontStyle": "normal",
+          "fontWeight": 900
+        },
+        {
+          "fontFamily": "Font Awesome 5 Brands",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Font Awesome 5 Free",
+          "fontWeight": 900
+        },
+        {
+          "fontFamily": "Font Awesome 5 Free",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "FontAwesome"
+        },
+        {
+          "fontFamily": "FontAwesome"
+        },
+        {
+          "fontFamily": "FontAwesome"
+        },
+        {
+          "fontFamily": "FontAwesome"
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url(\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css\");",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Font Awesome 6 Brands",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Font Awesome 6 Free",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Font Awesome 6 Free",
+          "fontStyle": "normal",
+          "fontWeight": 900
+        },
+        {
+          "fontFamily": "Font Awesome 5 Brands",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Font Awesome 5 Free",
+          "fontWeight": 900
+        },
+        {
+          "fontFamily": "Font Awesome 5 Free",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "FontAwesome"
+        },
+        {
+          "fontFamily": "FontAwesome"
+        },
+        {
+          "fontFamily": "FontAwesome"
+        },
+        {
+          "fontFamily": "FontAwesome"
+        }
+      ]
+    }
+  }
+]
